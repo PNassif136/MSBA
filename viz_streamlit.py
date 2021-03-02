@@ -2,7 +2,6 @@
 import streamlit as st
 import numpy as np
 import pandas as pd
-import matplotlib as plt
 import seaborn as sns
 import plotly as ply
 import plotly.figure_factory as ff
